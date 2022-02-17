@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Noticias del FC. Barcelona</title>
+		<link>https://lm.bules.eu/</link>
+		<description>
+			Noticias sobre el Futbolclub Barcelona
+		</description>
+		<category>Deportes</category>
+		<copyright>Hector Cevallos Paredes</copyright>
+		 <image>
+			<url>https://www.fcbarcelona.com/photo-resources/2022/02/17/06afcff2-c79b-4662-9a70-2a9829ba6d0d/mini_3200x2000.png?width=1600&height=700</url>
+			<title>Cam Barca </title>
+			<link>https://www.fcbarcelona.es/es/</link>
+		</image> 
+		
+		<language>es-es</language>
+		<lastBuildDate>Sat, 13 Feb 2021 10:17:00 +0100</lastBuildDate>
+		<webMaster>a20cepahe@iesgrancapitan.org</webMaster>
+		<skipDays>
+			<day>Saturday</day>
+			<day>Sunday</day>
+		</skipDays>
+		<skipHours>
+			<hour>0</hour>
+			<hour>1</hour>
+			<hour>2</hour>
+			<hour>3</hour>
+			<hour>4</hour>
+			<hour>5</hour>
+  		</skipHours>
+		<!-- Noticias del canal -->
+		<item>
+			<title>Barcelona Napoles</title>
+			<description>Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental. 
+			</description>
+			<link>https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/2488516/previa-fc-barcelona--napoles</link> 
+			<author>https://www.fcbarcelona.es/es/</author>
+			<category>Deportes</category>
+			<enclosure url="https://youtu.be/UguaVBjC1A0"
+				type="video/mp4" length="32572719"/>
+			<pubDate> 18 Feb 2022 18:00:00 +0100</pubDate>
+		</item>
+		 
+		<item>
+			<title>Actualización de los puntos de rendimiento</title>
+			<description>
+			Gracias al esfuerzo de muchos contribuidores, estamos ansiosos de anunciar una serie de cambios
+			al algoritmo de los puntos de rendimiento (pp) que debería refrescar las cosas a nivel competitivo.
+			Sigue leyendo para saber más!
+			</description>
+			<link>https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates</link>
+			<author>osu@ppy.sh</author>
+			<category>Actualizaciones</category>
+			<enclosure url="https://osu.ppy.sh/wiki/images/shared/news/2021-01-14-performance-points-updates/star-rating.jpg" length="33271" type="image/jpg" />
+			<pubDate>Sat, 16 Jan 2021 18:00:00 +0100</pubDate>
+		</item>
+
+		<item>
+			<title>Mejores juegos de 2020!</title>
+			<description>
+			Quieres saber cuáles fueron los mejores juegos de 2020? 
+			No te pierdas el podCast de Reload!
+			</description>
+			<link>https://www.youtube.com/watch?v=pszXdCvgt2A</link>
+			<author>pistas@anaitgames.com</author>
+			<category>Top videojuegos</category>
+			<enclosure url="https://drive.google.com/file/d/1eT-v3V06HsG4zWIrqTxLn33445G1CyGN/view?usp=sharing"
+			length="127556438"
+			type="audio/mpeg" />
+			<pubDate>Mon, 28 Dec 2020 18:00:00 +0100</pubDate>
+		</item>
+
+		<item>
+			<title>Actualización 1.5 de Stardew valley!</title>
+			<description>
+			Te gustan los juegos de granja!? Stardew valley es para ti.
+			En este conocido juego de granja han realizado una actualización recientemente que incluye numerosas novedades
+			Sobre todo para aquellos jugadores que están en fases finales de la partida.
+			De este modo, podemos aumentar el número de horas que podemos disfrutar de este juego! 
+			Sigue leyendo para saber más!
+			</description>
+			<link>https://www.stardewvalley.net/stardew-valley-1-5-update-out-now-on-pc/</link>
+			<author>contact@stardewvalley.net</author>
+			<category>Actualizaciones</category>
+			<enclosure url="https://www.stardewvalley.net/wp-content/uploads/2020/12/1_5_promo_square_3x.png" length="61234" type="image/png" />
+			<pubDate>Mon, 21 Dec 2020 18:00:00 +0100</pubDate>
+		</item>
+
+	</channel>
+</rss>
