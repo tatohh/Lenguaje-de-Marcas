@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Noticias del FC. Barcelona</title>
-		<link>https://lm.bules.eu/</link>
+		<link>https://www.fcbarcelona.es/</link>
 		<description>
 			Noticias sobre el Futbolclub Barcelona
 		</description>
@@ -43,31 +43,32 @@
 		</item>
 		 
 		<item>
-			<title>Actualización de los puntos de rendimiento</title>
+			<title>Aubameyang: "Cuando llegué, le dije a Dembélé que tenía que quedarse</title>
 			<description>
-			Gracias al esfuerzo de muchos contribuidores, estamos ansiosos de anunciar una serie de cambios
-			al algoritmo de los puntos de rendimiento (pp) que debería refrescar las cosas a nivel competitivo.
-			Sigue leyendo para saber más!
+			Pierre-Emerick Aubameyang hizo ronda de entrevistas a los dos principales diarios deportivos de la Ciudad Condal
+			Mundo Deportivo y Sport. En ellas, el delantero del Barça, lanzado tras su doblete al Valencia en Mestalla,hablo
+			de su situación y de la de un futbolista al que conoce muy bien: Ousmane Dembélé.		
 			</description>
-			<link>https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates</link>
-			<author>osu@ppy.sh</author>
-			<category>Actualizaciones</category>
-			<enclosure url="https://osu.ppy.sh/wiki/images/shared/news/2021-01-14-performance-points-updates/star-rating.jpg" length="33271" type="image/jpg" />
-			<pubDate>Sat, 16 Jan 2021 18:00:00 +0100</pubDate>
+			<link>https://www.marca.com/futbol/barcelona/2022/02/21/6213e09b46163fef228b45a0.html</link>
+			<author>Marca</author>
+			<category>Noticias Deportivas</category>
+			<enclosure url="https://phantom-marca.unidadeditorial.es/f89dc6f294c00e66e6b564dec6625509/resize/828/f/webp/assets/multimedia/imagenes/2022/02/21/16454700092514.jpg" />
+			<pubDate>Martes, 21 Febrero 2022 20:00:00 +0100</pubDate>
 		</item>
 
 		<item>
-			<title>Mejores juegos de 2020!</title>
+			<title>El Barça, colíder de 2022 con un partido menos</title>
 			<description>
-			Quieres saber cuáles fueron los mejores juegos de 2020? 
-			No te pierdas el podCast de Reload!
+			El conjunto de Xavi, en cinco partidos fuera y solo uno en el Camp Nou, ha sumado 
+			14 puntos de 18 posibles desde que empezó el año, los mismos que el Villarreal y el 
+			Elche, que han disputado una jornada más
 			</description>
-			<link>https://www.youtube.com/watch?v=pszXdCvgt2A</link>
-			<author>pistas@anaitgames.com</author>
-			<category>Top videojuegos</category>
-			<enclosure url="https://drive.google.com/file/d/1eT-v3V06HsG4zWIrqTxLn33445G1CyGN/view?usp=sharing"
+			<link>https://www.mundodeportivo.com/futbol/fc-barcelona/20220221/1001753656/barca-colider-2022-partido.html</link>
+			<author>https://www.mundodeportivo.com/</author>
+			<category>Editorial Deportiva</category>
+			<enclosure url="https://youtu.be/Xbwn1NhV6X0"
 			length="127556438"
-			type="audio/mpeg" />
+			type="video/mp4" />
 			<pubDate>Mon, 28 Dec 2020 18:00:00 +0100</pubDate>
 		</item>
 
