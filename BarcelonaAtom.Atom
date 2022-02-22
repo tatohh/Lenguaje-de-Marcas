@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	
+		<title>Noticias del FC. Barcelona</title>
+		<link href="https://www.fcbarcelona.es/"/>
+		<subtitle>
+			Noticias sobre el Futbolclub Barcelona
+		</subtitle>
+		<category>Deportes</category>
+		<copyright>Hector Cevallos Paredes</copyright>
+		 <image>
+			<url>https://www.fcbarcelona.com/photo-resources/2022/02/17/06afcff2-c79b-4662-9a70-2a9829ba6d0d/mini_3200x2000.png?width=1600&height=700</url>
+			<title>Cam Barca </title>
+			<link>https://www.fcbarcelona.es/es/</link>
+			<link>https://www.fcbarcelona.es/</link>
+		</image> 
+
+		<language>es-es</language>
+		<lastBuildDate>Martes 22 Feb 2022 10:17:00 +0100</lastBuildDate>
+		<webMaster>a20cepahe@iesgrancapitan.org</webMaster>
+		<skipDays>
+			<day>Saturday</day>
+			<day>Sunday</day>
+		</skipDays>
+		<skipHours>
+			<hour>0</hour>
+			<hour>1</hour>
+			<hour>2</hour>
+			<hour>3</hour>
+			<hour>4</hour>
+			<hour>5</hour>
+  		</skipHours>
+		<!-- Noticias del canal -->
+		<item>
+			<title>Barcelona Napoles</title>
+			<description>Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental. 
+			</description>
+			<link>https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/2488516/previa-fc-barcelona--napoles</link> 
+			<author>https://www.fcbarcelona.es/es/</author>
+			<category>Deportes</category>
+			<enclosure url="https://youtu.be/UguaVBjC1A0"
+				type="video/mp4" length="32572719"/>
+			<pubDate> 18 Feb 2022 18:00:00 +0100</pubDate>
+		</item>
+		 
+		<item>
+			<title>Aubameyang: "Cuando llegué, le dije a Dembélé que tenía que quedarse</title>
+			<description>
+			Pierre-Emerick Aubameyang hizo ronda de entrevistas a los dos principales diarios deportivos de la Ciudad Condal
+			Mundo Deportivo y Sport. En ellas, el delantero del Barça, lanzado tras su doblete al Valencia en Mestalla,hablo
+			de su situación y de la de un futbolista al que conoce muy bien: Ousmane Dembélé.		
+			</description>
+			<link>https://www.marca.com/futbol/barcelona/2022/02/21/6213e09b46163fef228b45a0.html</link>
+			<author>Marca</author>
+			<category>Noticias Deportivas</category>
+			<enclosure url="https://phantom-marca.unidadeditorial.es/f89dc6f294c00e66e6b564dec6625509/resize/828/f/webp/assets/multimedia/imagenes/2022/02/21/16454700092514.jpg" />
+			<pubDate>Martes, 22 Febrero 2022 20:00:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>El Barça, colíder de 2022 con un partido menos</title>
+			<description>
+			El conjunto de Xavi, en cinco partidos fuera y solo uno en el Camp Nou, ha sumado 
+			14 puntos de 18 posibles desde que empezó el año, los mismos que el Villarreal y el 
+			Elche, que han disputado una jornada más
+			</description>
+			<link>https://www.mundodeportivo.com/futbol/fc-barcelona/20220221/1001753656/barca-colider-2022-partido.html</link>
+			<author>https://www.mundodeportivo.com/</author>
+			<category>Editorial Deportiva</category>
+			<enclosure url="https://youtu.be/Xbwn1NhV6X0"
+			length="127556438"
+			type="video/mp4" />
+			<pubDate>Lunes, 21 Febrero 2022 10:00:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Maldini: "Xavi empieza a encontrar lo que busca"</title>
+			<description>
+			El colaborador de MARCA analiza el triunfo del Barcelona en Valencia y su momento de cara al partido de Europa League ante el Nápoles
+			Destacó el papel de jugadores como Pedri o Aubameyang y coincide en el pensamiento de Xavi sobre que el equipo dio mejor cara y le gustó más el día 
+			del Nápoles que en la victoria en Mestalla y que a pesar del resultado de la ida, 1-1, ve favorito al conjunto azulgrana de cara a pasar la eliminatoria.
+			</description>
+			<link>https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html</link>
+			<author>JULIO MALDONADO, 'MALDINI'</author>
+			<category>Editorial Deportiva</category>
+			<enclosure url="https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html" />
+			<pubDate>Martes, 22 Febrero 2022 09:00:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
