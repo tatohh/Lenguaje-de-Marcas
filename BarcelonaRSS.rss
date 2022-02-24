@@ -9,8 +9,8 @@
 		<category>Deportes</category>
 		<copyright>Hector Cevallos Paredes</copyright>
 		<image>
-			<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg</url>
-			<link>https://www.fcbarcelona.es/</link>
+		<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg</url>
+		<link>https://www.fcbarcelona.es/</link>
 		</image>
 		
 		
@@ -82,7 +82,8 @@
 			<link>https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html</link>
 			<author>nose@hotmail.com (Maldini)</author>
 			<category>Editorial Deportiva</category>
-			<enclosure url="https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html" />
+			<enclosure url="https://phantom-marca.unidadeditorial.es/29d61407ae912e63ff6f255c64f20b12/resize/828/f/webp/assets/multimedia/imagenes/2022/02/07/16442302078686.jpg" length="12345" type="image/jpg"/>
+			
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
 		</item>
 	</channel>
