@@ -9,13 +9,13 @@
 		<category>Deportes</category>
 		<copyright>Hector Cevallos Paredes</copyright>
 		 <image>
-			<url></url>
+			<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg?width=1600&height=700</url>
 			<title>¡Sólo vale ganar!</title>
 			<link>http://www.fcbarcelona.es/</link>
 		</image> 
 		
 		<language>es-es</language>
-		<lastBuildDate>Tues, 22 Feb 2022 10:17:00 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 02 Oct 2021 15:00:00 +0200</lastBuildDate>
 		<webMaster>alguien@loquesea.com (Hector Cevallos)</webMaster>
 		<skipDays>
 			<day>Saturday</day>
@@ -79,7 +79,7 @@
 			del Nápoles que en la victoria en Mestalla y que a pesar del resultado de la ida, 1-1, ve favorito al conjunto azulgrana de cara a pasar la eliminatoria.
 			</description>
 			<link>https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html</link>
-			<author>juliomaldini@info.com, (MALDINI)</author>
+			<dc:creator>Julio Maldondo Maldini</dc:creator>
 			<category>Editorial Deportiva</category>
 			<enclosure url="https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html" />
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
