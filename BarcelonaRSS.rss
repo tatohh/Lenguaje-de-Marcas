@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-<channel>
+	<rss version="2.0">
+	<channel>
 		<title>Noticias del FC. Barcelona</title>
 		<link>https://www.fcbarcelona.es/</link>
-		<description>
-			Noticias sobre el Futbolclub Barcelona
-		</description>
+		<description>Noticias sobre el Futbolclub Barcelona</description>
 		<category>Deportes</category>
 		<copyright>Hector Cevallos Paredes</copyright>
 		<image>
-		<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg</url>
-		<link>https://www.fcbarcelona.es/</link>
+			<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg</url>
+			<link>https://www.fcbarcelona.es/</link>
 		</image>
-		
-		
 		<language>es-es</language>
 		<lastBuildDate>Sat, 02 Oct 2021 15:00:00 +0200</lastBuildDate>
 		<webMaster>alguien@loquesea.com (Hector Cevallos)</webMaster>
@@ -29,7 +25,7 @@
 			<hour>4</hour>
 			<hour>5</hour>
   		</skipHours>
-		<!-- Noticias del canal -->
+
 		<item>
 			<title>Barcelona Napoles</title>
 			<description>
@@ -54,7 +50,6 @@
 			<author>inf@marca.com (EFE)</author>
 			<category>Noticias Deportivas</category>
 			<enclosure url="https://phantom-marca.unidadeditorial.es/f89dc6f294c00e66e6b564dec6625509/resize/828/f/webp/assets/multimedia/imagenes/2022/02/21/16454700092514.jpg" length="12345" type="image/jpg"/>
-			
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
 		</item>
 
@@ -86,5 +81,5 @@
 			
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
 		</item>
-</channel>
+	</channel>
 </rss>
