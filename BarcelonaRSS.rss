@@ -9,8 +9,8 @@
 		<category>Deportes</category>
 		<copyright>Hector Cevallos Paredes</copyright>
 		 <image>
-			<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg</url>
-			<link>https://www.fcbarcelona.es/</link>
+		<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg</url>
+		<link>https://www.fcbarcelona.es/</link>
 		</image> 
 		
 		<language>es-es</language>
@@ -38,7 +38,7 @@
 			<link>https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/2488516/previa-fc-barcelona--napoles</link> 
 			<author>nose@hotmail.com (Maldini)</author>
 			<category>Deportes</category>
-			<enclosure url="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwoUUogCmjDGgTpjlSOVcz3FNlqRaULY4VZPK7-n7A5C7P-uk1"/>
+			<enclosure url="https://img.lagaceta.com.ar/fotos/notas/2022/02/17/consuelo-tras-eliminacion-champions-barcelona-compite-primera-vez-18-anos-europa-league-931388-122259.jpg"/>
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
 		</item>
 		 
@@ -83,6 +83,5 @@
 			<enclosure url="https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html" />
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
 		</item>
-
 	</channel>
 </rss>
