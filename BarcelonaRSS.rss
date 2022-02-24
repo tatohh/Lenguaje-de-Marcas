@@ -10,7 +10,6 @@
 		<copyright>Hector Cevallos Paredes</copyright>
 		 <image>
 			<url>https://www.fcbarcelona.com/photo-resources/2022/02/23/e2dc44b6-e54e-4c01-a3f2-beb7dfb5d0f7/RCDEspanyol-FCBarcelona2-2J24Lliga1aDivisi20212022_pic_2022-02-13_rcdespanyolvsfcb_43.jpg</url>
-			<title>¡Sólo vale ganar!</title>
 			<link>http://www.fcbarcelona.es/</link>
 		</image> 
 		
@@ -32,7 +31,9 @@
 		<!-- Noticias del canal -->
 		<item>
 			<title>Barcelona Napoles</title>
-			<description>Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental. 
+			<description>
+			Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental 
+			Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental. 
 			</description>
 			<link>https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/2488516/previa-fc-barcelona--napoles</link> 
 			<author>nose@hotmail.com (Maldini)</author>
@@ -66,8 +67,7 @@
 			<link>https://www.mundodeportivo.com/futbol/fc-barcelona/20220221/1001753656/barca-colider-2022-partido.html</link>
 			<author>https:inf@mundodeportivo.com, (XAVI SOLÉ)</author>
 			<category>Editorial Deportiva</category>
-			<enclosure url="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/02/20/62126b7e25554.r_d.818-698.jpeg"
-			type="img/jpg" length="127556438" />
+			<enclosure url="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/02/20/62126b7e25554.r_d.818-698.jpeg" />
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
 		</item>
 
@@ -79,7 +79,7 @@
 			del Nápoles que en la victoria en Mestalla y que a pesar del resultado de la ida, 1-1, ve favorito al conjunto azulgrana de cara a pasar la eliminatoria.
 			</description>
 			<link>https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html</link>
-			<dc:creator>Julio Maldondo Maldini</dc:creator>
+			<author>nose@hotmail.com (Maldini)</author>
 			<category>Editorial Deportiva</category>
 			<enclosure url="https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html" />
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
