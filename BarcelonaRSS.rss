@@ -16,7 +16,7 @@
 		
 		<language>es-es</language>
 		<lastBuildDate>Martes, 22 Febrero 2022 10:17:00 +0200</lastBuildDate>
-		<webMaster>alguien@loquesea.com</webMaster>
+		<webMaster>alguien@loquesea.com (Hector Cevallos)</webMaster>
 		<skipDays>
 			<day>Saturday</day>
 			<day>Sunday</day>
@@ -35,11 +35,11 @@
 			<description>Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental Los culés reciben la visita de uno de los rivales más complicados de la competición para dar inicio a un nuevo torneo continental. 
 			</description>
 			<link>https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/2488516/previa-fc-barcelona--napoles</link> 
-			<author>nose@hotmail.com</author>
+			<author>nose@hotmail.com 'Maldini'</author>
 			<category>Deportes</category>
 			<enclosure url="https://youtu.be/UguaVBjC1A0"
 				type="video/mp4" length="32572719"/>
-			<pubDate>Viernes, 18 Febrero 2022 18:00:00 +0200</pubDate>
+			<pubDate>Friday, 18 Febrero 2022 18:00:00 +0200</pubDate>
 		</item>
 		 
 		<item>
@@ -50,10 +50,10 @@
 			de su situación y de la de un futbolista al que conoce muy bien: Ousmane Dembélé.		
 			</description>
 			<link>https://www.marca.com/futbol/barcelona/2022/02/21/6213e09b46163fef228b45a0.html</link>
-			<author>Marca</author>
+			<author>inf@marca.com 'EFE'</author>
 			<category>Noticias Deportivas</category>
 			<enclosure url="https://phantom-marca.unidadeditorial.es/f89dc6f294c00e66e6b564dec6625509/resize/828/f/webp/assets/multimedia/imagenes/2022/02/21/16454700092514.jpg" />
-			<pubDate>Martes, 22 Febrero 2022 20:00:00 +0200</pubDate>
+			<pubDate>Tuesday, 22 Febrero 2022 20:00:00 +0200</pubDate>
 		</item>
 
 		<item>
@@ -68,7 +68,7 @@
 			<category>Editorial Deportiva</category>
 			<enclosure url="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/02/20/62126b7e25554.r_d.818-698.jpeg"
 			type="img/jpg" length="127556438" />
-			<pubDate>Lunes, 21 Febrero 2022 10:00:00 +0200</pubDate>
+			<pubDate>Monday, 21 Febrero 2022 10:00:00 +0200</pubDate>
 		</item>
 
 		<item>
@@ -82,7 +82,7 @@
 			<author>JULIO MALDONADO, 'MALDINI'</author>
 			<category>Editorial Deportiva</category>
 			<enclosure url="https://www.marca.com/futbol/barcelona/2022/02/21/62138caa46163f33968b460f.html" />
-			<pubDate>Martes, 22 Febrero 2022 09:00:00 +0200</pubDate>
+			<pubDate>Tuesday, 22 Febrero 2022 09:00:00 +0200</pubDate>
 		</item>
 
 	</channel>
