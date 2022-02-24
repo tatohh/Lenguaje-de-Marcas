@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-	<channel>
+<channel>
 		<title>Noticias del FC. Barcelona</title>
 		<link>https://www.fcbarcelona.es/</link>
 		<description>
@@ -86,5 +86,5 @@
 			
 			<pubDate>Sat, 02 Oct 2021 15:00:00 +0200</pubDate>
 		</item>
-	</channel>
+</channel>
 </rss>
