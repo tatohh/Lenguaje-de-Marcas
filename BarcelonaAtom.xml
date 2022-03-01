@@ -1,1 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+xml:lang="es"
+xml:base="">
+	
+	<title>Feed sobre noticias de videojuegos</title>
+	<id>urn:uuid:489e3980-6e09-11eb-9439-0242ac130002</id>
+	<updated>2022-02-28T18:30:02Z</updated>
+	
+	<link href=""></link>
+	<subtitle>Canal de noticias sobre videojuegos. Aquí encontrará información
+			sobre nuevas actualizaciones, guías y eventos</subtitle>
+	<category term="Videojuegos competitivos"/>
+	<logo>https://pbs.twimg.com/media/EVaDaYVX0AgLA2s.jpg</logo>
 
+	<author>
+		<name>Héctor Cevallos Paredes</name>
+		<email>hectorhcp24@gmail.com</email>
+		<uri></uri>
+	</author>
+
+	<!-- Noticias del canal -->
+
+	<entry>
+		<title>Aniversario apex legends</title>
+		<id>urn:uuid:5508c78a-6e09-11eb-9439-0242ac130002</id>
+		<updated>2021-02-13T18:30:02Z</updated>
+		<link href="https://www.ea.com/es-es/games/apex-legends/news/season-8-anniversary-collection-event"></link>
+			<!-- &copy; no funciona.-->
+		 <rights type="html"> © 2022 Héctor Cevallos Paredes</rights>
+
+		<link rel="enclosure"
+		xml:lang="es-es"
+		title="Noticia aniversario apex"
+		type="application/pdf"
+		hreflang="es-es"
+		href="./apex.pdf" />
+
+		<summary>Han pasado dos años increíbles desde el lanzamiento de Apex Legends y esta vez, ¡lo vamos a celebrar!
+			Del 9 al 23 de febrero, vamos a celebrarlo con el evento especial de colección Aniversario. Salta al juego para obtener
+			recompensas gratuitas y disfrutar de un evento de colección especial en el que regresarán aspectos favoritos de los fans
+			y Cargada y a punto como Captura de lista de juego.</summary>
+		<author>
+			<name>Respawn</name>
+			<email>apexLegends@gmail.com</email>
+		</author>
+	
+		<category term="Eventos"></category>
+
+	</entry>
+
+		
+		<entry>
+			<title>Actualización de los puntos de rendimiento</title>
+			<id>urn:uuid:0ccbc976-6e0a-11eb-9439-0242ac130002</id>
+			<updated>2021-01-16T18:30:02Z</updated>
+			
+			<link href="https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates"></link>
+
+			<summary>
+			Gracias al esfuerzo de muchos contribuidores, estamos ansiosos de anunciar una serie de cambios
+			al algoritmo de los puntos de rendimiento (pp) que debería refrescar las cosas a nivel competitivo.
+			Sigue leyendo para saber más!
+			</summary>
+			
+			<author>
+				<name>Peppy</name>
+				<email>osu@ppy.sh</email>
+			</author>
+			<category term="Actualizaciones"></category>
+	
+		</entry>
+
+		<entry>
+			<title>Mejores juegos de 2020!</title>
+			<id>urn:uuid:f5e3023c-6e0a-11eb-9439-0242ac130002</id>
+			<updated>2020-12-28T18:30:02Z</updated>
+		
+			<link href="https://www.youtube.com/watch?v=pszXdCvgt2A"></link>
+
+			<link rel="enclosure"
+			type="audio/mpeg"
+			title="MP3"
+			href="https://drive.google.com/file/d/1eT-v3V06HsG4zWIrqTxLn33445G1CyGN/view?usp=sharing"
+			length="127556438"/>
+
+			<summary>
+			Quieres saber cuáles fueron los mejores juegos de 2020? 
+			No te pierdas el podCast de Reload!
+			</summary>
+			<author>
+				<name>Reload</name>
+				<email>pistas@anaitgames.com</email>
+			</author>
+			<category term="Top videojuegos"></category>
+
+		</entry>
+
+		<entry>
+			<title>Actualización 1.5 de Stardew valley!</title>
+			<link href="https://www.stardewvalley.net/stardew-valley-1-5-update-out-now-on-pc/"></link>
+			<id>urn:uuid:51285016-6e0b-11eb-9439-0242ac130002</id>
+			<updated>2020-12-21T18:30:02Z</updated>
+ 			
+			 
+			<summary type="html">
+			&lt;h1&gt;Te gustan los juegos de granja!? Stardew valley es para ti.
+			En este conocido juego de granja han realizado una actualización recientemente que incluye numerosas novedades
+			Sobre todo para aquellos jugadores que están en fases finales de la partida.
+			De este modo, podemos aumentar el número de horas que podemos disfrutar de este juego! 
+			Sigue leyendo para saber más!&lt;h1&gt;
+			</summary>
+			<author>
+				<name>concernedApe</name>
+				<email>contact@stardewvalley.net</email>
+			</author>
+			<category term="Actualizaciones"></category>
+			
+			<!-- <enclosure url="https://www.stardewvalley.net/wp-content/uploads/2020/12/1_5_promo_square_3x.png" length="61234" type="image/png" /> -->
+			
+
+		</entry>
+
+</feed>
